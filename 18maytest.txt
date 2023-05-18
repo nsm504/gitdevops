@@ -1,0 +1,9 @@
+nano filename.sh
+
+edit the .sh file with some text.
+Save it by pressing Ctrl+O
+Confirm the filename by pressing Enter.
+Exit the file by Ctrl+X
+Delete entire line by pressing Ctrl+K
+
+#! - tells what script will be exceuted
